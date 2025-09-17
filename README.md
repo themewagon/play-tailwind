@@ -1,28 +1,28 @@
 # Play - Free Tailwind CSS Template for Startup, Apps and SaaS
+#### Preview
 
-Play is an open-source and free Tailwind CSS template co-created by TailGrids and UIdeck. This template specially crafted for SaaS, startup, business and software website.
-Play crafted in a way that you can use with almost all sort of web project. This is Tailwind CSS template built using [TailGrids](https://tailgrids.com/) components.
+ - [Demo](https://themewagon.github.io/play-tailwind/)
 
-### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/play-tailwind/)
+ 
+ 
+## Getting Started
 
-### [🚀 View Demo](https://play-tailwind.tailgrids.com/)
+Clone from GitHub 
+```
+https://github.com/themewagon/play-tailwind.git
+```
 
-### [⬇️ Download Now](https://links.tailgrids.com/play-download)
+## Author
 
-[![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://play-tailwind.tailgrids.com/)
+Design and code are completely written by TailGrids and UIdeck design and development team.  
 
-## 📃 License
 
-Play is an open-source template, you can use it with your personal or commercial projects without any attribution or backlink.
+## License
 
-## 💙 Support
+ - Design and Code is Copyright &copy; [HTML Codex](https://tailgrids.com/)
+ - Licensed under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
 
-You can always support this project by [Starring🌟 This Repository](https://github.com/tailgrids/play-tailwind)
-and sharing with friends. Also open an issue if you find bug or feel free to contribute by pull requests after fixing any issue or adding more values.
 
-### Update Logs: 2.0 - Nov 2023
-- Design refresh
-- New marketing section
-- Dark mode support
-- Code and performance optimization
-- Updated dependencies
