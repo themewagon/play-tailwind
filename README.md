@@ -21,7 +21,7 @@ Design and code are completely written by TailGrids and UIdeck design and develo
 
 ## License
 
- - Design and Code is Copyright &copy; [TailGrids](https://tailgrids.com/)
+ - Design and Code is Copyright &copy; [UIdeck](https://uideck.com/)
  - Licensed under [MIT]
  - Distributed by [ThemeWagon](https://themewagon.com)
 
